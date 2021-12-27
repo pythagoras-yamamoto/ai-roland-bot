@@ -13,5 +13,3 @@ Node.jsで実装。機械学習機能の実装にはAzure FaceAPI, LUIS, Text An
 <img width="360" alt="スクリーンショット 2021-12-27 15 52 51" src="https://user-images.githubusercontent.com/60994397/147452894-15ec897d-b493-499d-859e-8779d49c9883.png">
 <img width="360" alt="スクリーンショット 2021-12-27 15 40 50" src="https://user-images.githubusercontent.com/60994397/147452959-00e578fe-3e13-44a9-b535-60c35163421c.png">
 <img width="360" alt="スクリーンショット 2021-12-27 14 36 31" src="https://user-images.githubusercontent.com/60994397/147453216-98c5cf04-cd0a-4b68-81ab-389e9c5cb9f5.jpg">
-
-### 参考:
